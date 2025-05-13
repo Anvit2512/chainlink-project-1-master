@@ -25,8 +25,8 @@ This is a demo project that shows you how to make a crowd sourcing application t
 ## Quickstart
 
 ```
-git clone https://github.com/algoexpert-io/chainlink-project-1
-cd chainlink-project-1
+git clone https://github.com/Anvit2512/chainlink-project-1-master
+cd chainlink-project-1-master
 npm i
 ```
 
